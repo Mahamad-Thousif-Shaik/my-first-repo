@@ -1,1 +1,1 @@
-#This is my first git project
+Learning git and github is fun.
