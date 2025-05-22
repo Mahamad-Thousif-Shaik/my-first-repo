@@ -1,1 +1,2 @@
-Learning git and github is fun.
+Added a new feature description
+
