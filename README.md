@@ -1,2 +1,3 @@
 # My First Repository
-This is my fantastic Git project!
+
+This is my awesome Git project!
